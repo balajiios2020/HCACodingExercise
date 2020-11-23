@@ -1,0 +1,6 @@
+framework module Pods_HCACodingExercise {
+  umbrella header "Pods-HCACodingExercise-umbrella.h"
+
+  export *
+  module * { export * }
+}
